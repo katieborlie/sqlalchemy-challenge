@@ -1,5 +1,7 @@
 # sqlalchemy-challenge
 
+<img width="840" alt="Screenshot 2023-03-09 at 9 32 52 PM" src="https://user-images.githubusercontent.com/119274891/224208416-60c16fdc-96a3-4350-bfa8-317f9150d89c.png">
+
 ## Before You Begin
 
 * Create a new repository for this project called sqlalchemy-challenge. Do not add this assignment to an existing repository.
